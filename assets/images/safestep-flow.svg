@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+<title id="title">SafeStep proposed sensor data flow</title><desc id="desc">Eight proposed sensing points feed data acquisition, calibration, and a data stream for teammates. This represents planned scope, not validated hardware.</desc>
+<rect width="900" height="520" fill="#eff4f3"/>
+<text x="44" y="48" fill="#526f65" font-family="Consolas,monospace" font-size="13" letter-spacing="2">SAFESTEP / PROPOSED DATA FLOW</text>
+<g fill="white" stroke="#90b1a4" stroke-width="2"><circle cx="157" cy="157" r="24"/><circle cx="247" cy="157" r="24"/><circle cx="337" cy="157" r="24"/><circle cx="427" cy="157" r="24"/><circle cx="517" cy="157" r="24"/><circle cx="607" cy="157" r="24"/><circle cx="697" cy="157" r="24"/><circle cx="787" cy="157" r="24"/></g>
+<g fill="#315f51" font-family="Consolas,monospace" font-size="14" text-anchor="middle"><text x="157" y="162">1</text><text x="247" y="162">2</text><text x="337" y="162">3</text><text x="427" y="162">4</text><text x="517" y="162">5</text><text x="607" y="162">6</text><text x="697" y="162">7</text><text x="787" y="162">8</text></g>
+<g fill="none" stroke="#90b1a4" stroke-width="1.5"><path d="M157 181V212H787V181M247 181V212M337 181V212M427 181V212M517 181V212M607 181V212M697 181V212M472 212V248"/></g>
+<g fill="white" stroke="#90b1a4" stroke-width="1.5"><rect x="97" y="248" width="211" height="96" rx="2"/><rect x="367" y="248" width="211" height="96" rx="2"/><rect x="637" y="248" width="211" height="96" rx="2"/></g>
+<g fill="#315f51" font-family="Arial,sans-serif" text-anchor="middle"><text x="203" y="287" font-size="20">Acquisition</text><text x="203" y="313" font-size="13">Hardware bring-up</text><text x="473" y="287" font-size="20">Calibration</text><text x="473" y="313" font-size="13">Force estimation</text><text x="743" y="287" font-size="20">Data stream</text><text x="743" y="313" font-size="13">Team interface</text></g>
+<g fill="none" stroke="#315f51" stroke-width="2"><path d="M311 296H352M345 289L352 296L345 303M581 296H622M615 289L622 296L615 303"/></g>
+<text x="44" y="431" fill="#526f65" font-family="Arial,sans-serif" font-size="16">My scope: sensor integration, bring-up, and calibrated data delivery.</text>
+<text x="44" y="480" fill="#526f65" font-family="Arial,sans-serif" font-size="14">Planned architecture. Prototype performance has not been validated.</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+<title id="title">U-bend gripper optimization design scope</title><desc id="desc">Conceptual diagram showing a U-bend between gripper contacts. This is a scope illustration, not a completed gripper design.</desc>
+<rect width="900" height="520" fill="#eff3f6"/>
+<g fill="none" stroke="#d5dfe6" stroke-width="1"><path d="M160 100V420M260 100V420M360 100V420M460 100V420M560 100V420M660 100V420M760 100V420M110 140H790M110 240H790M110 340H790M110 440H790"/></g>
+<text x="44" y="48" fill="#536b7d" font-family="Consolas,monospace" font-size="13" letter-spacing="2">MECHANICAL GRIPPER / DESIGN SCOPE</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M370 360V223A80 80 0 0 1 530 223V360" stroke="#ae8056" stroke-width="25"/><path d="M370 360V223A80 80 0 0 1 530 223V360" stroke="#d5b291" stroke-width="11"/>
+<path d="M262 204H339V280H262M638 204H561V280H638" stroke="#294e6d" stroke-width="4"/><path d="M262 170V315M638 170V315" stroke="#294e6d" stroke-width="10"/><path d="M305 241H342M558 241H595" stroke="#294e6d" stroke-width="9"/>
+<path d="M370 380V413M530 380V413M359 413H381M519 413H541" stroke="#536b7d" stroke-width="2"/>
+<path d="M339 199L231 126H143M561 288L674 362H753" stroke="#536b7d" stroke-width="1.5"/></g>
+<text x="142" y="113" fill="#294e6d" font-family="Arial,sans-serif" font-size="17">Level grasping</text><text x="636" y="386" fill="#294e6d" font-family="Arial,sans-serif" font-size="17">Tube protection</text>
+<text x="44" y="480" fill="#536b7d" font-family="Arial,sans-serif" font-size="14">Scope illustration. Hardware and gripper optimization work have not started.</text>
+</svg>

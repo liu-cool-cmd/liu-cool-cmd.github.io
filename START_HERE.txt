@@ -1,0 +1,22 @@
+ENGINEERING PORTFOLIO — LOCAL FIRST VERSION
+
+Open index.html in a browser. The five pages also work from a static web server.
+All files needed for this website are in this folder. No build step is required.
+
+Pages
+  index.html                 Home, projects, about, and contact
+  safety-valve.html          Completed undergraduate capstone
+  ros-mobile-robot.html      Completed bring-up and mapping project
+  u-bend-gripper.html        In Progress; awaiting hardware
+  safestep.html              In Progress
+
+The original source material outside this folder has not been changed.
+The website uses copies of selected images and the supplied resume.
+The Trane page uses one public coil product photograph from Trane's SureFit brochure, with source attribution and a U-bend annotation. It is a product reference, not project hardware or a student-designed prototype. Partner production photographs, internal baseline data, and acceptance figures are excluded.
+No website has been deployed by creating this folder.
+
+Content: update the HTML pages.
+Appearance: assets/css/portfolio.css
+Interaction: assets/js/portfolio.js
+Template: Phantom by HTML5 UP / AJ, adapted under CC BY 3.0.
+Keep the design attribution and LICENSE.txt when distributing this adaptation.
