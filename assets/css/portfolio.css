@@ -129,3 +129,8 @@ a.image-frame{cursor:zoom-in}.image-frame:hover{border-color:#8ca4b6}
 .evidence-gallery img{width:100%;height:100%;object-fit:contain}
 @media(max-width:736px){.project-image.text-cover{padding:25px 28px;gap:15px}.project-image.text-cover>strong{font-size:2.8rem}.text-cover-scope{font-size:12px}.assembly-comparison{grid-template-columns:1fr}.assembly-comparison .image-frame{height:270px}.fixture-figure .image-frame{height:350px}.mesh-figure .image-frame{height:240px}.contact-figure .image-frame{height:230px}.rail-bracket-figure .image-frame{height:130px}.fabrication-evidence{grid-template-columns:1fr}.fabrication-evidence .image-frame{height:270px}.evidence-gallery{grid-template-columns:1fr}.evidence-gallery .image-frame{height:280px}}
 @media(max-width:736px){.public-coil-reference{padding:12px 12px 0}.coil-callout-label{left:29%;top:3%;font-size:8px;padding:3px 5px}.coil-callout-line{top:19%;height:25%;border-left-width:1px}.coil-callout-marker{border-width:1px}.public-coil-reference figcaption{padding:12px 0 15px;font-size:10px}}
+
+/* Completed hardware photographs retain the full assembly view. */
+.two-up.completed-build .image-frame{height:auto;aspect-ratio:16/9;background:#fff}
+.two-up.completed-build img{object-fit:contain}
+@media(max-width:736px){.two-up.completed-build{grid-template-columns:1fr}}
